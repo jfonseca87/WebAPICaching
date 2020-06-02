@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/WebAPICaching
+/packages
+/WebAPICaching/bin
+/WebAPICaching/obj
+/WebAPICachingNet/bin
+/WebAPICachingNet/obj
